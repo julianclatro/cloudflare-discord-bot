@@ -1,0 +1,1 @@
+{"version":3,"file":"interaction.d.ts","sourceRoot":"","sources":["../src/interaction.ts"],"names":[],"mappings":"AAEA,OAAO,EACL,kBAAkB,EAClB,kBAAkB,EAInB,MAAM,SAAS,CAAC;AAkCjB,eAAO,MAAM,WAAW;eAIX,MAAM;cACP,CAAC,kBAAkB,EAAE,kBAAkB,CAAC,EAAE;gBAE7B,OAAO,KAAG,QAAQ,QAAQ,CA6BlD,CAAC"}
